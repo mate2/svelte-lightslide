@@ -214,7 +214,7 @@ npm run check    # type-check
 
 ## Credits
 
-Inspired by **Highslide JS** by Torstein Hønsi — a lightbox I loved to use for many years. This is an independent reimplementation in Svelte; no original Highslide code is used. The original project is now largely defunct (its site has been losing its assets and database), which is part of why I wanted to rebuild the experience I missed.
+Inspired by **Highslide JS** by Torstein Hønsi — a lightbox I loved to use for many years. This is an independent reimplementation in Svelte; no original Highslide code is used. The original project is no longer maintained and its site has been breaking down, which is part of why I wanted to rebuild the experience I missed.
 
 Demo images are public-domain imagery from **NASA / ESA** (Earth from GOES, Hubble deep-sky views, and a gopher tortoise at [Kennedy Space Center](https://images.nasa.gov/details/KSC-2014-2853)). They are used only in the demo app and are not part of the published package.
 
