@@ -5,6 +5,14 @@
   "type": "module",
   "author": "Jérôme Soulas (https://portfolio.webzappette.com)",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mate2/svelte-lightslide.git"
+  },
+  "homepage": "https://github.com/mate2/svelte-lightslide#readme",
+  "bugs": {
+    "url": "https://github.com/mate2/svelte-lightslide/issues"
+  },
   "scripts": {
     "dev": "vite dev",
     "build": "vite build && npm run package",
