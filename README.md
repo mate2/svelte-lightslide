@@ -4,6 +4,12 @@
 
 <h1 align="center">svelte-lightslide</h1>
 
+<p align="center">
+  <a href="https://www.npmjs.com/package/svelte-lightslide"><img src="https://img.shields.io/npm/v/svelte-lightslide?color=ff7424" alt="npm version" /></a>
+  <a href="./LICENSE"><img src="https://img.shields.io/npm/l/svelte-lightslide?color=ff7424" alt="MIT license" /></a>
+  <img src="https://img.shields.io/badge/Svelte-5-ff3e00?logo=svelte&logoColor=white" alt="Svelte 5" />
+</p>
+
 A draggable, accessible image lightbox & gallery for **Svelte 5** — a modern rebuild of [Highslide JS](https://web.archive.org/web/2018*/highslide.com), the lightbox I loved and used across my sites in the early 2010s.
 
 Most modern lightboxes drop a full-screen image in the middle of the screen and call it a day. Highslide did something I always missed since: the image **expanded out of the thumbnail you clicked**, became a **little window you could drag around the page**, and carried a tidy control bar for navigation and a slideshow. This is that experience, rebuilt from scratch in Svelte 5 with runes — no jQuery, no dependencies, scoped CSS.
