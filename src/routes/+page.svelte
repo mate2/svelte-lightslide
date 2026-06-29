@@ -28,7 +28,10 @@
 
 <main>
   <header>
-    <h1>svelte-lightslide</h1>
+    <div class="brand">
+      <img src="/favicon.svg" alt="" class="brand-logo" />
+      <h1>Svelte LightSlide</h1>
+    </div>
     <p>
       A draggable, accessible image lightbox &amp; gallery for Svelte 5 — a modern rebuild of the
       Highslide lightbox I loved. <strong>Click an image</strong>, then drag it
@@ -120,9 +123,20 @@
     margin: 0 auto;
     padding: 3rem 1.5rem 6rem;
   }
+  .brand {
+    display: flex;
+    align-items: center;
+    gap: 0.85rem;
+    margin-bottom: 0.5rem;
+  }
+  .brand-logo {
+    width: 48px;
+    height: 48px;
+    flex: 0 0 auto;
+  }
   header h1 {
     font-size: 2.2rem;
-    margin: 0 0 0.5rem;
+    margin: 0;
   }
   header p {
     color: #b6b8be;
