@@ -8,6 +8,7 @@
   <a href="https://www.npmjs.com/package/svelte-lightslide"><img src="https://img.shields.io/npm/v/svelte-lightslide?color=ff7424" alt="npm version" /></a>
   <a href="./LICENSE"><img src="https://img.shields.io/npm/l/svelte-lightslide?color=ff7424" alt="MIT license" /></a>
   <img src="https://img.shields.io/badge/Svelte-5-ff3e00?logo=svelte&logoColor=white" alt="Svelte 5" />
+  <a href="https://svelte-lightslide.pages.dev/"><img src="https://img.shields.io/badge/live%20demo-ff7424" alt="Live demo" /></a>
 </p>
 
 A draggable, accessible image lightbox & gallery for **Svelte 5** — a modern rebuild of [Highslide JS](https://web.archive.org/web/2018*/highslide.com), the lightbox I loved and used across my sites in the early 2010s.
