@@ -1,6 +1,6 @@
 {
   "name": "svelte-lightslide",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A draggable, accessible image lightbox & gallery for Svelte 5 — a modern rebuild of the Highslide lightbox I loved.",
   "type": "module",
   "author": "Jérôme Soulas (https://portfolio.webzappette.com)",
@@ -9,7 +9,7 @@
     "type": "git",
     "url": "git+https://github.com/mate2/svelte-lightslide.git"
   },
-  "homepage": "https://github.com/mate2/svelte-lightslide#readme",
+  "homepage": "https://svelte-lightslide.pages.dev",
   "bugs": {
     "url": "https://github.com/mate2/svelte-lightslide/issues"
   },

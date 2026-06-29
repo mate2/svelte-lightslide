@@ -113,6 +113,11 @@
   </section>
 
   <footer>
+    <p class="links">
+      <a href="https://github.com/mate2/svelte-lightslide" target="_blank" rel="noopener">GitHub</a>
+      ·
+      <a href="https://www.npmjs.com/package/svelte-lightslide" target="_blank" rel="noopener">npm</a>
+    </p>
     <p>svelte-lightslide · Built with Svelte 5. Inspired by Highslide JS (Torstein Hønsi, ~2007).</p>
   </footer>
 </main>
@@ -202,5 +207,16 @@
     font-size: 0.85rem;
     border-top: 1px solid #1d1f24;
     padding-top: 1.5rem;
+  }
+  footer .links {
+    margin: 0 0 0.5rem;
+  }
+  footer a {
+    color: #ff7424;
+    text-decoration: none;
+    font-weight: 600;
+  }
+  footer a:hover {
+    text-decoration: underline;
   }
 </style>
